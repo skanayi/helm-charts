@@ -1032,7 +1032,7 @@ server:
 
     loadBalancerIP: ""
     loadBalancerSourceRanges: []
-    servicePort: 8080
+    servicePort: 9080
     sessionAffinity: None
     type: LoadBalancer
 
